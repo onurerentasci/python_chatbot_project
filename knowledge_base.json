@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Merhaba",
+      "answer": "Merhaba! Nas\u0131ls\u0131n?"
+    },
+    {
+      "question": "\u0130yiyim sen nas\u0131ls\u0131n?",
+      "answer": "\u00e7ok iyiyim. Sordu\u011fun i\u00e7in te\u015fekk\u00fcrler!"
+    },
+    {
+      "question": "nas\u0131ls\u0131n",
+      "answer": "olduk\u00e7a iyiyim. Sen nas\u0131ls\u0131n?"
+    },
+    {
+      "question": "ben de \u00e7ok iyiyim",
+      "answer": "bunu duydu\u011fuma sevindim"
+    }
+  ]
+}
